@@ -4,6 +4,7 @@ Website ini untuk mengonversi video YouTube ke format MP3. Dengan masukkan URL v
 
 ## Cara Penggunaan
 
+1. buka file convert.php jika anda menggunakan xampp buka di chrome "http;//localhost/youtube-converter/convert.php" misalnya
 1. Masukkan URL video YouTube yang ingin dikonversi.
 2. Klik tombol **Convert**.
 3. Setelah konversi selesai, Buka file local misalnya: "C:\xampp\htdocs\youtube-converter\mp3"
